@@ -4,14 +4,9 @@ body {
   margin: 40px;
 }
 
-.skills {
+ul {
   list-style: none;
   padding: 0;
-}
-
-.skills li {
-  margin: 5px 0;
-  font-weight: 500;
 }
 
 .button {
