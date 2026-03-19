@@ -4,6 +4,11 @@ body {
   margin: 40px;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+}
+
 .button {
   display: inline-block;
   margin-top: 15px;
